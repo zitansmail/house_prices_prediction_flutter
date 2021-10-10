@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![screenshot](assets/images/Screen.png)
+![screenshot](assets/images/Screen.png)  { width: 200px; }
 
 ## Getting Started
 
